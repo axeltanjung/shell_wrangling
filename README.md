@@ -94,3 +94,20 @@ f. Pengecekan terhadap word counting dan agregasi kategori item dapat dilihat pa
 **4. Saran Perbaikan**
 
 Saran perbaikan untuk program ini adalah penghapusan terhadap file file pendukung yang bersifat transitory dan hanya menyisakan file data_clean.csv dan check_baris.txt dan check_category.txt
+
+**Note Tambahan**
+
+Dilakukan gitignore pada seluruh file csv kecuali file data_clean.csv, check_baris.txt, dan check_category.txt dikarenakan keterbatasan pada GitHub untuk memasukkan file yang sangat besar
+
+```2019-Nov-sample.csv
+2019-Oct-Nov-Sample-Selected-purchase.csv
+2019-Oct-Nov-Sample-Selected.csv
+2019-Oct-Nov-sample.csv
+2019-Oct-sample.csv
+category.csv
+category_code.csv
+check_category.txt
+data_joint.csv
+data_show.csv
+join_category.csv
+product_name.csv```
