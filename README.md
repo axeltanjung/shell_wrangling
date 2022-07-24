@@ -108,7 +108,6 @@ Dilakukan gitignore pada seluruh file csv kecuali file data_clean.csv, check_bar
 2019-Oct-sample.csv
 category.csv
 category_code.csv
-check_category.txt
 data_joint.csv
 data_show.csv
 join_category.csv
