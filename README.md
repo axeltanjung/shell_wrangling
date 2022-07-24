@@ -69,6 +69,8 @@ Terdapat beberapa step yaitu,
 
 ```cat data_clean.csv | grep electronics | grep smartphone| awk -F ',' '{print $5}'| sort | uniq -c | sort -nr > check_category.txt```
 
+- Cetak output sesuai dengan soal dengan ```cat data_clean.csv | head -10 | csvlook```
+
 - Memasukkan syntax syntax tersebut kedalam vim execute.sh didalam bash scripting
 
 **3. Cara Running / Penggunaan Program**
