@@ -1,4 +1,8 @@
 # tugas4_shell
+
+### Nama  : Axel Ivanda Tanjung
+### ID    : axel-jUpc
+
 Repository ini berisikan hasil Tugas 4 Shell Pacmann
 
 **1. Tujuan Pengerjaan Proyek** 
